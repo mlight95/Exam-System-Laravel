@@ -27,6 +27,9 @@ class HomeController extends Controller
     }
 
     public function goDashboard() {
-        
+        $requests = 90;
+        if($requests > 10 ){
+            $added = 10;
+        }
     }
 }
