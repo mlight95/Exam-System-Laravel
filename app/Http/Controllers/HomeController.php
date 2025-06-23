@@ -27,6 +27,5 @@ class HomeController extends Controller
     }
 
     public function goDashboard() {
-        return view('home');
     }
 }
