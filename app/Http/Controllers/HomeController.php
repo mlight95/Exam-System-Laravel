@@ -31,7 +31,6 @@ class HomeController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function goDashboard(Request $request) {
-        $requests = $request->all();
-        $data = [];
+        
     }
 }
