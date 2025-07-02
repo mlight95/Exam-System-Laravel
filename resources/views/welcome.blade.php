@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome Developers
+                    Welcome
                 </div>
 
                 <div class="links">
