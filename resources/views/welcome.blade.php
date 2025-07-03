@@ -48,9 +48,7 @@
             .title {
                 font-size: 84px;
             }
-            .title_back {
-                font-size: 84px;
-            }
+            
             .links > a {
                 color: #636b6f;
                 padding: 0 25px;
