@@ -39,6 +39,5 @@ class LoginController extends Controller
     }
 
     public function getAuth(Request $request){
-        $data= $request->all();
     }
 }
