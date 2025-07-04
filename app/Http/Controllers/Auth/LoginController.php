@@ -39,5 +39,6 @@ class LoginController extends Controller
     }
 
     public function getAuth(Request $request){
+        
     }
 }
